@@ -1,0 +1,20 @@
+{
+  "name": "1000proj-backend",
+  "version": "1.0.0",
+  "description": "Node js Backend for 1000projects.vue (or my-minute-site)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express"
+  ],
+  "author": "Zoha2400",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}

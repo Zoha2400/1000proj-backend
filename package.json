@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "1000proj-backend",
   "version": "1.0.0",
   "description": "Node js Backend for 1000projects.vue (or my-minute-site)",

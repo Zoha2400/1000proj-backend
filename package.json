@@ -14,7 +14,13 @@
   "author": "Zoha2400",
   "license": "ISC",
   "dependencies": {
+    "@adminjs/express": "^6.0.1",
+    "@adminjs/sql": "^2.2.1",
+    "adminjs": "^7.2.2",
     "express": "^4.18.2",
-    "nodemon": "^3.0.1"
+    "express-formidable": "^1.2.0",
+    "express-session": "^1.17.3",
+    "nodemon": "^3.0.1",
+    "tslib": "^2.6.2"
   }
 }
